@@ -1,12 +1,12 @@
-🔭 I’m currently working on [FT_Transcendence](https://github.com/frdescam/transcendence/tree/badam)
+🔭 I’m currently working on my personals projects and my house
 
-🌱 I’m currently learning mostly C/C++ and Vue.JS at [42 Paris](https://42.fr/)
+🌱 I’m learning mostly C/C++ at [42 Paris](https://42.fr/)
 
 ⚡ Fun fact: I already acquired strong web skills before joining 42 Paris as I made [Libre LGBT](https://www.libre-lgbt.fr/) 🏳️‍🌈 since ~2014
 
 📫 How to reach me:
-  - 📧 bastien.67880 @ gmail.com
-  - 💬 Discord: Buom_01#6963
+  - 📧 bastien.adam.buom01@gmail.com
+  - 🔗 [LinkedIn](https://www.linkedin.com/in/bastien-adam-buom01)
 
 <!--
 **Buom01/Buom01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
