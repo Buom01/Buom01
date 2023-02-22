@@ -1,5 +1,3 @@
-[![badam's 42 stats](https://badge42.vercel.app/api/v2/cl29owout000609jx3hvrlsjk/stats?cursusId=21&coalitionId=47)](https://github.com/JaeSeoKim/badge42)
-
 🔭 I’m currently looking for a job, while working on my personals projects and my house
 
 🌱 I’m learning mostly C/C++ at [42 Paris](https://42.fr/)
@@ -25,4 +23,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+[![badam's 42 stats](https://badge42.vercel.app/api/v2/cl29owout000609jx3hvrlsjk/stats?cursusId=21&coalitionId=47)](https://github.com/JaeSeoKim/badge42)
 -->
