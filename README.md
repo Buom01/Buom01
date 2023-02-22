@@ -1,4 +1,4 @@
-🔭 I’m currently looking for a job, while working on my personals projects and my house
+🔭 I’m currently looking for a job<!--, while working on my personals projects and my house-->
 
 🌱 I’m learning mostly C/C++ at [42 Paris](https://42.fr/)
 
