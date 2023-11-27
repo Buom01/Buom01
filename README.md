@@ -1,6 +1,6 @@
 🔭 I’m currently looking for a job<!--, while working on my personals projects and my house-->
 
-🌱 I’m learning mostly C/C++ at [42 Paris](https://42.fr/)
+🌱 I’ve learned mostly C/C++ at [42 Paris](https://42.fr/)
 
 ⚡ Fun fact: I already acquired strong web skills before joining 42 Paris as I made [Libre LGBT](https://www.libre-lgbt.fr/) 🏳️‍🌈 since ~2014
 
