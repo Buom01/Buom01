@@ -1,14 +1,11 @@
 <!--🔭 I’m currently looking for a job
 -->
-🌱 I’ve learned mostly C/C++ at [42 Paris](https://42.fr/)
-
-⚡ Fun fact: I already acquired strong web skills before joining 42 Paris as I made [Libre LGBT](https://www.libre-lgbt.fr/) 🏳️‍🌈 since ~2014
-
 📫 How to reach me:
   - 📧 bastien.adam.buom01@gmail.com
   - 🔗 [LinkedIn](https://www.linkedin.com/in/bastien-adam-buom01)
+  - 🔗 [Malt](https://www.malt.fr/profile/bastienadam1)
 
-💼 Find out my portfolio here: https://bastien-adam.fr/projects
+💼 Find out my portfolio here: https://bastien-adam.fr/projets
 
 <!--
 **Buom01/Buom01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
