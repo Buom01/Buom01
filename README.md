@@ -6,6 +6,7 @@
   - 🔗 [Malt](https://www.malt.fr/profile/bastienadam1)
 
 💼 Find out my portfolio here: https://bastien-adam.fr/projets
+(Most of my projects are on my privates git's servers)
 
 <!--
 **Buom01/Buom01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
